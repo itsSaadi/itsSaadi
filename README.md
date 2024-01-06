@@ -23,7 +23,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=itsSaadi&theme=radical)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsSaadi&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
